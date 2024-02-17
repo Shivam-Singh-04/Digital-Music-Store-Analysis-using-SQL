@@ -1,0 +1,4 @@
+1) Create Database and import all the csv's or restore Database.
+2) Write queries as requested to solve the problems.
+
+Full Video Explanation: https://youtu.be/VFIuIjswMKM?si=30s9ok29xV0WXpbU
